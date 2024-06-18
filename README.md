@@ -1,5 +1,4 @@
-:wave: Hi, I’m Ekaterina Utkina <br/>
-:woman_technologist: I am a front-end developer with 3+ years of experience.<br/>
-:pushpin: My tech stack: JavaScript, HTML, CSS, TypeScript, Vue, React, Next.js.<br/>
-:envelope: You can contact me by mail: katerin.utkina@gmail.com or telegram: @katerinUtkina.<br/>
-
+## Hi there! :wave:
+:woman_technologist: I'm a Frontend developer with 3+ years of experience.<br/>
+:pushpin: My skills and technologies: ![HTML](https://img.shields.io/badge/HTML-lightgrey) ![CSS](https://img.shields.io/badge/CSS-lightgrey) ![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey) ![JQuery](https://img.shields.io/badge/JQuery-lightgrey) ![Bootstrap](https://img.shields.io/badge/Bootstrap-lightgrey) ![Quasar](https://img.shields.io/badge/Quasar-lightgrey) ![MUI](https://img.shields.io/badge/MUI-lightgrey) ![Docker](https://img.shields.io/badge/Docker-lightgrey) ![Vue.js](https://img.shields.io/badge/Vue.js-lightgrey) ![React](https://img.shields.io/badge/React-lightgrey) ![Redux](https://img.shields.io/badge/Redux-lightgrey) ![SSR](https://img.shields.io/badge/SSR-lightgrey) ![Next.js](https://img.shields.io/badge/Next.js-lightgrey) <br/>
+:envelope: You can reach out to me via email at katerin.utkina@gmail.com and telegram https://t.me/katerinUtkina.<br/>
